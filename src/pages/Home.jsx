@@ -18,7 +18,7 @@ const Home = () => {
               1000,
               'Yazılım Geliştirici Adayıdır',
               1000,
-              'Siber Güvenlik Çalışmaları Yapıyor',
+              'Siber Güvenliğe İlgilidir',
               1000,
             ]}
             wrapper="span"
@@ -83,7 +83,7 @@ const Home = () => {
         <span className="mouse">
           <span className="wheel"></span>
         </span>
-        <span className="scroll-text">Aşağı Kaydırınız.</span>
+        <span className="scroll-text">Detaylı inceleme yapmak için aşağı kaydırınız.</span>
       </div>
     </div>
   );
