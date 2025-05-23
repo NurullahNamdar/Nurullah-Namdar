@@ -57,6 +57,8 @@ progressItems.forEach(item => {
     { name: 'C#', percentage: 99 },
     { name: 'Python', percentage: 70 },
     { name: 'Java', percentage: 65 },
+    { name: 'SQLite', percentage: 55 },
+    { name: 'Fusion360', percentage: 60 },
   ];
 
   return (
