@@ -83,7 +83,7 @@ const Home = () => {
         <span className="mouse">
           <span className="wheel"></span>
         </span>
-        <span className="scroll-text">Aşağı Kaydırarak Detaylı İnceleme Yapabilirsiniz.</span>
+        <span className="scroll-text">Aşağı Kaydırınız.</span>
       </div>
     </div>
   );

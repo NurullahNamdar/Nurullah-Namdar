@@ -13,7 +13,7 @@ const Portfolio = () => {
       image: 'https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'İnternet kafelerin yönetimini kolaylaştırmak için Python ile kodlanmış modern uygulama.',
       link: 'https://github.com/NurullahNamdar/internetkafeyonetimsistemi',
-      technologies: ['Python', 'PYQT5','CSS']
+      technologies: ['Python', 'PYQT5','CSS','SQLite']
     },
     {
       id: 2,
